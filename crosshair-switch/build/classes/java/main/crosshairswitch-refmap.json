@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "de/tim/crosshairswitch/mixin/InGameHudMixin": {
+      "renderCrosshair": "Lnet/minecraft/class_329;method_1736(Lnet/minecraft/class_332;Lnet/minecraft/class_9779;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "de/tim/crosshairswitch/mixin/InGameHudMixin": {
+        "renderCrosshair": "Lnet/minecraft/class_329;method_1736(Lnet/minecraft/class_332;Lnet/minecraft/class_9779;)V"
+      }
+    }
+  }
+}
